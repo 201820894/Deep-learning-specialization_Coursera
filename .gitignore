@@ -1,0 +1,15 @@
+**/data/
+**/datasets/
+**/dataset/
+**/nb_images/
+**/model_data/
+**/pretrained_model/
+**/model/
+**/models/
+**/.ipynb_checkpoints/
+**/.__pycache__/
+**/*.h5
+**/pretrained-model/
+**/keras-facenet_tf23/
+**/keras-facenet-h5/
+**/glove/
